@@ -8,5 +8,5 @@ N-Single-Parity Code is interesting as the receivers are capable of reconstructi
 I got 95/100 for this project because of the minor mistake of misunderstanding another part of question 2.
 
 My report was written in Latex in which I used "mcode" package from Matlab to attach my code in a nicer format.
-Hope this help!
+Hope this helps!
 
